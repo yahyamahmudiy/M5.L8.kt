@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/PDP/Android BootCamp/Xurshidek Kurbanov/Modul_5/8-dars/M5.L8.kt/app/src/main/res/drawable/border_rounded.xml" value="0.1415" />
+        <entry key="..\:/PDP/Android BootCamp/Xurshidek Kurbanov/Modul_5/8-dars/M5.L8.kt/app/src/main/res/drawable/ic_comment.xml" value="0.1415" />
+        <entry key="..\:/PDP/Android BootCamp/Xurshidek Kurbanov/Modul_5/8-dars/M5.L8.kt/app/src/main/res/drawable/ic_comment_white.xml" value="0.121" />
+        <entry key="..\:/PDP/Android BootCamp/Xurshidek Kurbanov/Modul_5/8-dars/M5.L8.kt/app/src/main/res/drawable/ic_favorite.xml" value="0.1415" />
+        <entry key="..\:/PDP/Android BootCamp/Xurshidek Kurbanov/Modul_5/8-dars/M5.L8.kt/app/src/main/res/drawable/ic_favorite_white.xml" value="0.121" />
+        <entry key="..\:/PDP/Android BootCamp/Xurshidek Kurbanov/Modul_5/8-dars/M5.L8.kt/app/src/main/res/drawable/ic_more.xml" value="0.1415" />
+        <entry key="..\:/PDP/Android BootCamp/Xurshidek Kurbanov/Modul_5/8-dars/M5.L8.kt/app/src/main/res/drawable/ic_star_white.xml" value="0.121" />
+        <entry key="..\:/PDP/Android BootCamp/Xurshidek Kurbanov/Modul_5/8-dars/M5.L8.kt/app/src/main/res/drawable/ic_transform.xml" value="0.1415" />
+        <entry key="..\:/PDP/Android BootCamp/Xurshidek Kurbanov/Modul_5/8-dars/M5.L8.kt/app/src/main/res/drawable/ic_transform_white.xml" value="0.121" />
+        <entry key="..\:/PDP/Android BootCamp/Xurshidek Kurbanov/Modul_5/8-dars/M5.L8.kt/app/src/main/res/drawable/ic_upload_white.xml" value="0.121" />
+        <entry key="..\:/PDP/Android BootCamp/Xurshidek Kurbanov/Modul_5/8-dars/M5.L8.kt/app/src/main/res/layout/activity_main.xml" value="0.25416666666666665" />
+        <entry key="..\:/PDP/Android BootCamp/Xurshidek Kurbanov/Modul_5/8-dars/M5.L8.kt/app/src/main/res/layout/activity_main_night.xml" value="0.2" />
+        <entry key="..\:/PDP/Android BootCamp/Xurshidek Kurbanov/Modul_5/8-dars/M5.L8.kt/app/src/main/res/layout/item_feed_post.xml" value="0.25416666666666665" />
+        <entry key="..\:/PDP/Android BootCamp/Xurshidek Kurbanov/Modul_5/8-dars/M5.L8.kt/app/src/main/res/layout/item_feed_post_night.xml" value="0.176" />
+        <entry key="..\:/PDP/Android BootCamp/Xurshidek Kurbanov/Modul_5/8-dars/M5.L8.kt/app/src/main/res/layout/item_feed_story.xml" value="0.6" />
+        <entry key="..\:/PDP/Android BootCamp/Xurshidek Kurbanov/Modul_5/8-dars/M5.L8.kt/app/src/main/res/layout/item_feed_story_white.xml" value="0.25416666666666665" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
